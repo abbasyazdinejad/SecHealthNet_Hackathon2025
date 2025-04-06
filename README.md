@@ -1,4 +1,4 @@
-# 🔐 SecHealthNet_Hackathon
+# 🔐 SecHealthNet_Hackathon2025
 
 ### 🌍 Privacy-Preserving AI for Collaborative Healthcare
 
