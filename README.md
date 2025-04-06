@@ -41,7 +41,7 @@ This mirrors real-world scenarios where hospitals cannot centralize data but sti
 To view the full results, open the [SECHEALTHNET.html](./SECHEALTHNET.html) file.
 
 
-![Model Predictions After FL]
+# Model Predictions After FL
 
 ![P1](https://github.com/user-attachments/assets/a001db97-c8f6-4994-a4d1-6c87e42e8813)
 
