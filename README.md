@@ -34,7 +34,7 @@ This mirrors real-world scenarios where hospitals cannot centralize data but sti
 
 ![image](https://github.com/user-attachments/assets/23d06bcc-d043-4832-9251-c2caf5a80d5a)
 
-
+- In our simulation, we demonstrate how five hospitals can collaboratively train a medical AI model using federated learning without ever sharing patient data. We use the PathMNIST dataset from MedMNIST, which contains over 100,000 labeled pathology slide images categorized into nine tissue types, such as liver, lung, and kidney. Each hospital receives a subset of this dataset and trains a local Convolutional Neural Network (CNN) to perform a multi-class image classification task, predicting the correct tissue class for each image. To preserve patient privacy, we utilize Privacy by design, ensuring that model updates are obfuscated enough to prevent data leakage. After local training, only the model parameters are shared with a central aggregator, which combines them into a global model. This process simulates real-world hospital collaboration where data cannot leave the institution, yet accurate AI models can still be built collectively to support tasks like cancer detection, organ identification, and diagnostics.
 ---
 
 ## 📁 Repository Structure
