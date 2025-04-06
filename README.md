@@ -10,6 +10,8 @@ Using the **Opacus** library, we apply **Differential Privacy** to ensure that m
 
 This mirrors real-world scenarios where hospitals cannot centralize data but still need high-performing predictive models for tasks such as **risk scoring**, **diagnosis**, and **outcome prediction**. The code integrates key concepts from our solution architecture: **data decentralization**, **privacy preservation**, and **regulatory compliance**, making it a strong fit for AI in healthcare applications.
 
+![image](https://github.com/user-attachments/assets/75acd015-0c42-4238-833b-6a5e0e7d5390)
+
 ---
 
 ## 🧠 Project Features
@@ -28,13 +30,10 @@ This mirrors real-world scenarios where hospitals cannot centralize data but sti
 
 ### 🔽 Federated Learning with Privacy
 
-![Federated Learning](./h2.png)
-
----
-
 ### 🔐 SecureHealthNet Vision
 
-![SecureHealthNet Overview](./h3.png)
+![image](https://github.com/user-attachments/assets/23d06bcc-d043-4832-9251-c2caf5a80d5a)
+
 
 ---
 
