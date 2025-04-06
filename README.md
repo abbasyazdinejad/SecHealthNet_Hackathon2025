@@ -6,7 +6,7 @@ The **SecHealthNet_Hackathon** project demonstrates how five hospitals can colla
 
 We simulate this collaboration using the **PathMNIST** dataset from the **MedMNIST** collection, which includes over **100,000 labeled pathology slide images** across **9 tissue classes** (e.g., liver, kidney, lung). Each hospital receives a different data partition and trains a local **Convolutional Neural Network (CNN)** to perform a **multi-class medical image classification task**.
 
-Using the **Opacus** library, we apply **Differential Privacy** to ensure that model gradients are securely shared with a central aggregator — never exposing raw patient data. After each federated round, encrypted model updates are aggregated into a **global model**, which becomes more accurate with each cycle.
+We will apply **Privacy Techniques** to ensure that model gradients are securely shared with a central aggregator — never exposing raw patient data. After each federated round, encrypted model updates are aggregated into a **global model**, which becomes more accurate with each cycle.
 
 This mirrors real-world scenarios where hospitals cannot centralize data but still need high-performing predictive models for tasks such as **risk scoring**, **diagnosis**, and **outcome prediction**. The code integrates key concepts from our solution architecture: **data decentralization**, **privacy preservation**, and **regulatory compliance**, making it a strong fit for AI in healthcare applications.
 
@@ -17,7 +17,7 @@ This mirrors real-world scenarios where hospitals cannot centralize data but sti
 ## 🧠 Project Features
 
 - ✅ Federated Learning across 5 simulated hospitals
-- 🔏 Differential Privacy using Opacus
+- 🔏 Privacy Techniques (DP, HE, AHE, etc.)
 - 🏥 Local model training with secure gradient sharing
 - 🔗 Global model aggregation via parameter averaging
 - 🧬 MedMNIST PathMNIST dataset for real medical imaging
@@ -28,7 +28,7 @@ This mirrors real-world scenarios where hospitals cannot centralize data but sti
 
 ## 🖼️ System Architecture
 
-### 🔽 Federated Learning with  Differential Privacy
+### 🔽 Federated Learning with  Privacy Techniques
 
 ### 🔐 SecureHealthNet Vision
 
