@@ -38,11 +38,16 @@ This mirrors real-world scenarios where hospitals cannot centralize data but sti
 ---
 ## 📄 HTML Report
 
-To view the full results, open the [SECHEALTHNET.html](./SECHEALTHNET.html) file or use an [nbviewer link](https://nbviewer.org/github/yourusername/yourrepo/blob/main/SECHEALTHNET.ipynb).
+To view the full results, open the [SECHEALTHNET.html](./SECHEALTHNET.html) file.
+
 
 ![Model Predictions After FL]![image](https://github.com/user-attachments/assets/c8e53dd6-d1ab-40ff-9279-4206a69bb811)
 
+![P1](https://github.com/user-attachments/assets/a001db97-c8f6-4994-a4d1-6c87e42e8813)
 
+![P2](https://github.com/user-attachments/assets/749d59cd-25b2-46fb-b9be-ecf50d5e8b97)
+
+![P3](https://github.com/user-attachments/assets/a89e2f96-7cae-4762-8dd8-18723f9d7f11)
 
 ## 📁 Repository Structure
 
