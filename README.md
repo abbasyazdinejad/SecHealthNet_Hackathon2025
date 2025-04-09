@@ -28,7 +28,7 @@ This mirrors real-world scenarios where hospitals cannot centralize data but sti
 
 ## 🖼️ System Architecture
 
-### 🔽 Federated Learning with  Privacy Techniques
+### 🔽 Federated Learning with  Differential Privacy
 
 ### 🔐 SecureHealthNet Vision
 
