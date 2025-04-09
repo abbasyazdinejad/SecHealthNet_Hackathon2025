@@ -2,7 +2,7 @@
 
 ### 🌍 Privacy-Preserving AI for Collaborative Healthcare
 
-The **SecHealthNet_Hackathon** project demonstrates how five hospitals can collaboratively train an AI model using **Federated Learning** while preserving patient privacy through **Differential Privacy**.
+The **SecHealthNet_Hackathon** project demonstrates how five hospitals can collaboratively train an AI model using **Federated Learning** while preserving patient privacy through **Privacy by Design**.
 
 We simulate this collaboration using the **PathMNIST** dataset from the **MedMNIST** collection, which includes over **100,000 labeled pathology slide images** across **9 tissue classes** (e.g., liver, kidney, lung). Each hospital receives a different data partition and trains a local **Convolutional Neural Network (CNN)** to perform a **multi-class medical image classification task**.
 
