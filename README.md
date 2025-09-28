@@ -1,4 +1,4 @@
-# 🔐 SecHealthNet_Hackathon2025
+# 🔐 SecHealthNet_Hackathon2025 : harvard health systems innovation lab hackathon 2025
 
 ### 🌍 Privacy-Preserving AI for Collaborative Healthcare
 
